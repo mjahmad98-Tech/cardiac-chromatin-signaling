@@ -20,3 +20,12 @@ specific histone marks at named cardiac gene loci, then considers
 whether this same machinery could plausibly respond to a wider class 
 of environmental input, and whether early cardiac chromatin dynamics 
 relate to body-axis patterning more broadly.
+
+## Argument structure
+
+![Structure of the argument, from cardiac primacy through established mechanism to open questions](figures/argument_structure.png)
+
+The review moves from two converging lines of evidence for cardiac 
+primacy, bioelectric and thermodynamic, through an established 
+chromatin mechanism, to a clearly bounded set of open questions about 
+wider environmental inputs and a possible role in body-axis patterning.
