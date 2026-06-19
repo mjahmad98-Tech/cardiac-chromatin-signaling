@@ -1,19 +1,22 @@
 # Cardiac Epigenome and Environmental Signal Transduction
 
 Draft mini review examining how mechanical, bioelectric, and metabolic 
-signals converge on cardiac chromatin during development, and evaluating 
-the evidence for acoustic, electromagnetic, and quantum-level inputs 
-into the same system.
+signals converge on cardiac chromatin during development, and 
+evaluating the evidence for acoustic, electromagnetic, and 
+quantum-level inputs into the same system.
 
 ## Status
+
 Work in progress. Draft manuscript, not yet submitted.
 
 ## Contents
+
 - `manuscript/` — current draft text
 - `references/` — reference list
-- `figures/` — conceptual figure summarizing the proposed mechanism
+- `figures/` — diagram of the review's argument structure
 
 ## Scope
+
 The review traces a chromatin-level pathway from mechanical and 
 calcium signaling, through the LINC complex and class IIa HDAC, to 
 specific histone marks at named cardiac gene loci, then considers 
@@ -23,7 +26,7 @@ relate to body-axis patterning more broadly.
 
 ## Argument structure
 
-![Structure of the argument, from cardiac primacy through established mechanism to open questions]![Structure of the argument](exact/path/cardiac_epigenome_argument_structure.png)
+![Structure of the argument, from cardiac primacy through established mechanism to open questions](figures/argument_structure.png)
 
 The review moves from two converging lines of evidence for cardiac 
 primacy, bioelectric and thermodynamic, through an established 
