@@ -23,7 +23,7 @@ relate to body-axis patterning more broadly.
 
 ## Argument structure
 
-![Structure of the argument, from cardiac primacy through established mechanism to open questions](figures/argument_structure.png)
+![Structure of the argument, from cardiac primacy through established mechanism to open questions]![Structure of the argument](exact/path/cardiac_epigenome_argument_structure.png)
 
 The review moves from two converging lines of evidence for cardiac 
 primacy, bioelectric and thermodynamic, through an established 
